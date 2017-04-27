@@ -1,0 +1,44 @@
+.post {
+	font-size: 15px;
+	margin: 0 0 0 10px;
+/*	border-top-style: dotted;
+    border-right-style: dotted;*/
+    border-bottom-style: solid;
+ /*   border-left-style: dotted;*/
+    padding: 10px 0px;
+    margin-bottom: 15px;
+    border-color: #e6e6e6;
+    border-width: 1px;
+}
+
+.post .glyphicon, .comment .glyphicon  {
+	color: #ffa821;
+	font-size: 15px;
+	transition: all;
+}
+
+.postForm {
+	margin: 30px 0 0 0;
+}
+
+.upvotes {
+	font-size: 12px;
+	color: rgba(0,0,0,.5);
+}
+
+.viewComments {
+	font-size: 12px;
+}
+
+.viewComments .glyphicon {
+	margin-right: 5px;
+	color: rgba(0,0,0,.3);
+	position: relative;
+	top: 4px;
+}
+
+.commentAuthor {
+	font-size: 10px;
+	color: rgba(0,0,0,.5);
+}
+
